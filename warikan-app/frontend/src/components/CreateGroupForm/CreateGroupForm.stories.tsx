@@ -3,7 +3,7 @@ import type { Meta, StoryObj } from "@storybook/react"
 
 const meta = {
   title: "CreateGroupForm",
-  conponent: CreateGroupForm,
+  component: CreateGroupForm,
 } as Meta<typeof CreateGroupForm>;
 
 export default meta;
